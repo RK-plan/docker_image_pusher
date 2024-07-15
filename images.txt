@@ -6,4 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #ubuntu:22.04
 #centos
-ubuntu:20.04
+#ubuntu:20.04
+tenable/nessus:10.7.4-ubuntu
+
