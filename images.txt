@@ -10,6 +10,8 @@ nginx
 
 #debian:10
 
-nessus:latest
+nessus
+
+
 
 
